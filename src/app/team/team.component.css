@@ -1,0 +1,21 @@
+
+.team-container {
+    margin-bottom: 1rem;
+    border: 0.1rem solid rgba(214, 214, 214, 0.95); 
+    padding: 1rem;
+    border-radius: 0.5rem;
+    font-family: Poppins, sans-serif;
+
+
+}
+
+.team-container ul {
+    
+    list-style: none;
+    margin: 0;
+    padding: 0.5rem;
+}
+
+.team-container ul li {
+    border-bottom: 0.1rem solid  rgba(207, 117, 0, 0.5);
+}
